@@ -1,0 +1,12 @@
+body{
+    background-image: url("bg1.jpg");
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+#project_can{
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
